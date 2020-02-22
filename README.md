@@ -1,2 +1,3 @@
 # NginxCSharp
-C# Library for the Nginx+ API
+C# Library for the Nginx+ API.
+Based on 
