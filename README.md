@@ -1,4 +1,4 @@
-# NginxCSharp [![NuGet](https://img.shields.io/nuget/v/NginxCSharp.svg)](https://img.shields.io/nuget/v/NginxCSharp/)
+# NginxCSharp [![NuGet](https://img.shields.io/nuget/v/NginxCSharp.svg)](https://www.nuget.org/packages/NginxCSharp/)
 C# Library for the Nginx+ API.  
 Based on the NginixPlus demo 
 [Swagger documentation](http://demo.nginx.com/swagger-ui/).
